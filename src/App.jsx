@@ -1,10 +1,12 @@
 import { useState } from 'react'
-// import trollFace from './assets/troll-face.png'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css'
+import "./index.css"
+
 
 import Header from "./components/Header"
 import Form from "./components/Form"
+
 
 function App() {
  
@@ -12,7 +14,7 @@ function App() {
   return (
     <div>
       <Header />
-      <div class = "main-container">
+      <div className = "main-container">
         <Form />
       </div>
       
