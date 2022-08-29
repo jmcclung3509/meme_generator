@@ -1,7 +1,7 @@
 # meme_generator
 The Meme generator is fun React project that allows the user to create memes based on a random meme image fetched from the  Imgflip API. 
 Text for the meme is inputed in the input form field and then displayed at the top and/or bottom of the meme image.
-A new image can be fetched and displayed by clicking the "Get new meme image button". 
+A new image can be fetched and displayed by clicking the "Get a new meme image" button. 
 
 Created using React, React Hooks, Vite.
 
